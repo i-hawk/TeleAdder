@@ -138,3 +138,29 @@ Update Tool
 
 $ python3 setup.py -u
 
+
+# The pro version TG_SPECIAL----The most upgraded Telegram tool ever 🌀🌀
+
+
+🗝️🗝️Key Features🗝️🗝️
+
+
+👉 The script is based on 5 new different libraries and modules so the banning can't take place at all.
+
+👉 There won't be any need of IP for using the tool.
+
+👉The program will filter out all bots/deleted user/ dead accounts too.
+
+👉 Option To Add Users Via Username Or IDs (Both options)
+
+👉 Will never show any error until add each and every member scrapped from Target groups into destination groups.
+
+💥💥And much more💥💥
+
+👍Here I'm ping me for any help anytime👍
+
+🔗🔗The main feature of this script is people sometimes loses their telegram numbers due to any reason.
+
+🔗🔗The script will always remove any limitations or ban from all numbers before adding.
+
+
